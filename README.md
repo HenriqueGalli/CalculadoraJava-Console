@@ -1,18 +1,11 @@
-## Getting Started
+## Tradução de um código C# para Java 
+O código escolhido foi o de uma calculadora básica em console.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## IDE Escolhida
+A IDE escolhida para o projeto foi o Visual Studio Code com as extensões para Java.
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## IDE Escolhida
+O ponto mais interessante do exercício de tradução de um código de C# para Java foi perceber a 
+diferença de verbosidade entre as linguagens. Por exemplo, para capturar um texto digitado 
+pelo usuário em C# é preciso apenas chamar o comando Console.ReadLine(), no caso do Java é preciso 
+instanciar uma classe chamada Scanner para ter acesso a leitura do teclado.
